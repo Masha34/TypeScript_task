@@ -1,0 +1,8 @@
+.box{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.add, .filter, .filter_by_price{
+    margin: 20px 0;
+    background-color: yellowgreen;
+}
